@@ -6,7 +6,7 @@
 **本期推荐的节点购买订阅网站不仅适用于电脑pc系统，也同样可以在安卓或者苹果手机上使用。希望通过阅读本文后，你将不再需要在网上搜索关于电脑手机如何挂梯子上外网浏览国外网站、机场节点哪里订阅等问题。都是自用多年的稳定便宜好用的机场梯子推荐，你可以打开他们的[节点购买网站](https://github.com/TOP-VPN/vpntuijian),直接申请适用于clash小猫咪和小火箭的ss/ssr/Trojan/V2Ray(vmess)的翻墙协议节点购买或试用。**
 
 
-![科学上网教程.jpg](https://s2.loli.net/2023/12/12/PnLqkfYdVWeQcom.jpg)
+![科学上网教程.jpg](https://www.cnvintage.org/assets/files/2024-12-30/1735573070-181364-image.png)
 
 
 ## 在选择科学上网机场梯子加速时，可以考虑以下几个方面
